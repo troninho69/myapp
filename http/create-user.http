@@ -15,7 +15,7 @@ POST https://aulabanco.up.railway.app/users
 Content-Type: application/json
 
 {
-  "name": "João Silva",
-  "email": "joao.silva@email.com",
-  "password": "123456"
+  "name": "Luiz henrique",
+  "email": "luiz.henrique@email.com",
+  "password": "40028922"
 }
