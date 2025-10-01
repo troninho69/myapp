@@ -11,7 +11,7 @@ Content-Type: application/json
 
 ### Railway
 
-POST https://api-production-dcaa.up.railway.app/users
+POST https://aulabanco.up.railway.app/users
 Content-Type: application/json
 
 {
